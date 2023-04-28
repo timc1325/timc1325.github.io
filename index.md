@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Masters student at University of California, Los Angeles, majoring in Applied Statistics. I earned B.S. in Mathematics from UCLA in 2022. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Innovative ML Method:** Energy-Based Models, Neural Network, 
+- **Mathematical Statistics:** High-Dimensional Statistics, Distribution Theory
+- **Sports Analytics:** Time-Serie Forecasting, Game Prediction, 
+- **Synthetic Data:** Generative Models, Differential Privacy
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Projects
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+- Five League Prediction
+- Life Expectancy Prediction

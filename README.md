@@ -1,23 +1,7 @@
-## Installing vCard
+# Technical Portfolio
 
-To install **vCard**, follow these steps:
+This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
 
-Linux and macOS:
+See the quick start guide for instructions on how to tailor the template to your own needs.
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-The module is provided by Richard Hanrick. You can contact him here. [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.

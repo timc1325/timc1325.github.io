@@ -17,5 +17,5 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 
 ## Projects
 
-- Five League Prediction
-- Life Expectancy Prediction
+- [Five League Prediction](https://github.com/timc1325/Five_Major_Leagues_Prediction)
+- [Life Expectancy Prediction](https://github.com/timc1325/Life_Expectancy)

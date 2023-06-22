@@ -21,3 +21,4 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 - [Five League Prediction](https://github.com/timc1325/Five_Major_Leagues_Prediction)
 - [Life Expectancy Prediction](https://github.com/timc1325/Life_Expectancy)
 - [Marathon Record Progression](https://github.com/timc1325/Marathon-Record-Progression) [(PDF)](assets/files/latex/Marathon.pdf)
+

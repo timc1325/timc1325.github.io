@@ -59,7 +59,7 @@ body {
         width: 0px;
         background: transparent;
         transition: width .5s ease, background-color .5s ease;
-      }
+      } 
     .social-icons a:hover:after {
         width: 100%;
         background: #a0b0ff;
@@ -74,7 +74,7 @@ body {
   display:inline-block;
   font-size:2.0rem;
   height:3.6rem;
-  line-height:3.6rem;
+  line-height:3.6rem; 
   margin:0 5px;
   position:relative;
   text-align:center;
@@ -292,7 +292,7 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(111, 133, 232);
+    color:rgb(30, 57, 103);
   }
 }
 

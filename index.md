@@ -13,10 +13,11 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 - **Sports Analytics:** Time-Serie Forecasting, Game Prediction, 
 - **Synthetic Data:** Generative Models, Differential Privacy
 
-## News
+## Big Names in ML(with my undersanding)
+- [Quadratic Forms](assets/files/latex/Quadratic_Forms.pdf)
 
 ## Projects
 
 - [Five League Prediction](https://github.com/timc1325/Five_Major_Leagues_Prediction)
 - [Life Expectancy Prediction](https://github.com/timc1325/Life_Expectancy)
-- [Marathon Record Progression](https://github.com/timc1325/Marathon-Record-Progression) [(PDF)](assets/files/latex/marathon.pdf)
+- [Marathon Record Progression](https://github.com/timc1325/Marathon-Record-Progression) [(PDF)](assets/files/latex/Marathon.pdf)

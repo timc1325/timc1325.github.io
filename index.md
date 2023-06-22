@@ -20,8 +20,10 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 - [Gradient Descent]
 - [Back Propagation]
 - [MCMC]
+
 ### Supervised Models
 - [GLM], [SVM], [Tree Models], [Neural Networks]
+
 ### Unsupervised Models
 - [PCA], [GAN], [VAE], [Diffusion Models], [EBM]
 

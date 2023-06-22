@@ -8,18 +8,14 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 
 ## Research Interests
 
-- **Innovative ML Method:** Energy-Based Models, Neural Network, 
+- **Innovative ML Method:** Energy-Based Models, Neural Network
 - **Mathematical Statistics:** High-Dimensional Statistics, Distribution Theory
-- **Sports Analytics:** Time-Serie Forecasting, Game Prediction, 
+- **Sports Analytics:** Time-Serie Forecasting, Game Prediction
 - **Synthetic Data:** Generative Models, Differential Privacy
 
 ## Often-heard Names in ML(with my undersanding)
 ### Math/Method
-- [Quadratic Forms](assets/files/latex/Quadratic_Forms.pdf)
-- [Exponential Families]
-- [Gradient Descent]
-- [Back Propagation]
-- [MCMC]
+- [Quadratic Forms](assets/files/latex/Quadratic_Forms.pdf), [Exponential Families], [Gradient Descent], [Back Propagation], [MCMC]
 
 ### Supervised Models
 - [GLM], [SVM], [Tree Models], [Neural Networks]

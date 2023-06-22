@@ -34,5 +34,5 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 - [Life Expectancy Prediction](https://github.com/timc1325/Life_Expectancy)
 - [Marathon Record Progression](https://github.com/timc1325/Marathon-Record-Progression) [(PDF)](assets/files/latex/Marathon.pdf)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png" alt="Belief System" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png" alt="Belief System" width="10" />
 

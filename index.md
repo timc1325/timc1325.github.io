@@ -13,16 +13,21 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 - **Sports Analytics:** Time-Serie Forecasting, Game Prediction
 - **Synthetic Data:** Generative Models, Differential Privacy
 
-## Often-heard Names in ML(with my undersanding)
-### Math/Method
-- [Quadratic Forms](assets/files/latex/Quadratic_Forms.pdf), [Exponential Families], [Gradient Descent], [Back Propagation], [MCMC]
+## ML Terminology (with my undersanding)
+### Optimization Method
+-   [Convexity], [Gradient Descent], [Duality]
+
+### Probability Theory
+- [Exponential Families], [Quadratic Forms](assets/files/latex/Quadratic_Forms.pdf), [MCMC]
 
 ### Supervised Models
-- [GLM], [SVM], [Tree Models], [Neural Networks]
+- [Tree Models], [SVM], [Neural Networks]
 
 ### Unsupervised Models
 - [PCA], [GAN], [VAE], [Diffusion Models], [EBM]
 
+### Applied Method
+- [Data Augmentation], [Feature Selection], [Experimental Design for Parameter Tuning]
 
 ## Projects
 

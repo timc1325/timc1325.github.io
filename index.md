@@ -18,6 +18,7 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 - [Quadratic Forms Reivew](assets/files/latex/Quadratic_Forms.pdf)
 - [Goal-Oriented Forecasting](https://github.com/timc1325/Five_Major_Leagues_Prediction) [(PDF)](assets/files/latex/Thesis.pdf)
 - [Life Expectancy Prediction](https://github.com/timc1325/Life_Expectancy) 
+- [Life Expectancy Prediction](https://github.com/timc1325/Experimental-Design_MNIST-Hyperparameter-Tuning)[(PDF)](assets/files/latex/Hyperparameter Tuning.pdf)
 - [Marathon Record Progression](https://github.com/timc1325/Marathon-Record-Progression) [(PDF)](assets/files/latex/Marathon.pdf)
 
 
@@ -51,7 +52,5 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 -   [Pattern Recognition and Machine Learning (C. Bishop)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ### Hidden GEM
-[NLP focused DL](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-[CV focused DL](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-[Convex Optimization](https://online.stanford.edu/courses/soe-yeecvx101-convex-optimization)
+- Stanford Open Courses: [NLP focused DL](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [CV focused DL](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Convex Optimization](https://online.stanford.edu/courses/soe-yeecvx101-convex-optimization)
 

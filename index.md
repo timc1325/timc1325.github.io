@@ -16,32 +16,30 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 
 ## Projects
 - [Quadratic Forms Reivew](assets/files/latex/Quadratic_Forms.pdf)
-
 - [Goal-Oriented Forecasting](https://github.com/timc1325/Five_Major_Leagues_Prediction) [(PDF)](assets/files/latex/Thesis.pdf)
-
-- [Hyperparameters Tuning on MNIST using Experimental Design](https://github.com/timc1325/Experimental-Design_MNIST-Hyperparameter-Tuning)[(PDF)](assets/files/latex/Hyperparameter Tuning.pdf)
 - [Marathon Record Progression](https://github.com/timc1325/Marathon-Record-Progression) [(PDF)](assets/files/latex/Marathon.pdf)
+- [Hyperparameters Tuning on MNIST using Experimental Design](https://github.com/timc1325/Experimental-Design_MNIST-Hyperparameter-Tuning)[(PDF)](assets/files/latex/Hyperparameter Tuning.pdf)
 - [Life Expectancy Prediction](https://github.com/timc1325/Life_Expectancy) 
 
 
-## Reference to Interpretative Insights & Noteworthy Explanations
+## Reference to Insights & Explanations
 ### Visual Math 
 
 - 3Blue1Brown:  [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr),
                 [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab),
                 [Markov Chains](https://www.youtube.com/watch?v=i3AkTO9HLXo&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)
+                [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Visually Explained:   [Optimization (Convexity, Duality, KKT)](https://www.youtube.com/playlist?list=PLqwozWPBo-FuPu4d9pFOobsCF1vDGdY_I),
                         [First Order Methods](https://www.youtube.com/playlist?list=PLqwozWPBo-FtJ1wfHq47F__ReKfmGLUZP) 
 
 ### Probability Theory (UCLA Resources)
--   Thanks to [Professor Christou](http://www.stat.ucla.edu/~nchristo/), we have [Common Distribution Summary](http://www.stat.ucla.edu/~nchristo/statistics100B/stat100b_dist_summary.pdf) for reference when we forget about distribution statistics. 
+-   Thanks to [Professor Christou](http://www.stat.ucla.edu/~nchristo/), we have [Common Distribution Summary](http://www.stat.ucla.edu/~nchristo/statistics100B/stat100b_dist_summary.pdf) for reference when we forget about distribution statistics and how to derive from the definition. 
 -  [Professor Wu](http://www.stat.ucla.edu/~ywu) also has both wonderful lecture recordings and pdf notes published online on Probability Theory and Machine Learning Basics. 
 
 ### Supervised Models 
 - StatQuest with Josh Starmer:  [Linear Regression](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU),
                                 [Tree Models](https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH), 
                                 [SVM](https://www.youtube.com/playlist?list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc), 
-                                [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### Unsupervised Methods
 - [PCA(not technically a model)](https://www.youtube.com/watch?v=FgakZw6K1QQ), [GAN, VAE](https://www.youtube.com/watch?v=5WoItGTWV54), [Diffusion Models](https://www.youtube.com/watch?v=fbLgFrlTnGU), [EBM](https://www.youtube.com/watch?v=Cs_j-oNwGgg)

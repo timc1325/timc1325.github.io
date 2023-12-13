@@ -16,10 +16,12 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 
 ## Projects
 - [Quadratic Forms Reivew](assets/files/latex/Quadratic_Forms.pdf)
+
 - [Goal-Oriented Forecasting](https://github.com/timc1325/Five_Major_Leagues_Prediction) [(PDF)](assets/files/latex/Thesis.pdf)
-- [Life Expectancy Prediction](https://github.com/timc1325/Life_Expectancy) 
-- [Life Expectancy Prediction](https://github.com/timc1325/Experimental-Design_MNIST-Hyperparameter-Tuning)[(PDF)](assets/files/latex/Hyperparameter Tuning.pdf)
+
+- [Hyperparameters Tuning on MNIST using Experimental Design](https://github.com/timc1325/Experimental-Design_MNIST-Hyperparameter-Tuning)[(PDF)](assets/files/latex/Hyperparameter Tuning.pdf)
 - [Marathon Record Progression](https://github.com/timc1325/Marathon-Record-Progression) [(PDF)](assets/files/latex/Marathon.pdf)
+- [Life Expectancy Prediction](https://github.com/timc1325/Life_Expectancy) 
 
 
 ## Reference to Interpretative Insights & Noteworthy Explanations

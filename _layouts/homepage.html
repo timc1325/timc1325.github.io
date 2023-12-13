@@ -25,6 +25,14 @@
     <link rel="stylesheet" href="./assets/css/publications.css">
 
   </head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5ZWXVKSG0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Y5ZWXVKSG0');
+  </script>
   <body>
     <div class="wrapper">
       <header>
@@ -99,15 +107,7 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-        <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5ZWXVKSG0"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-Y5ZWXVKSG0');
-    </script>
+    
     {% endif %}
   </body>
 </html>

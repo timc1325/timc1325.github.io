@@ -9,9 +9,9 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 ## Research Interests
 
 - **Innovative ML Method:** Energy-Based Models, Explainable Models
-- **Mathematical Statistics:** High-Dimensional Statistics, Distribution Theory
-- **Sports Analytics:** Time-Serie Forecasting, Performance Analysis, Video Tracking
 - **Synthetic Data:** Differential Privacy, Encryption
+- **Sports Analytics:** Time-Serie Forecasting, Performance Analysis
+
 
 
 ## Projects

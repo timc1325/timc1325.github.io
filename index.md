@@ -16,7 +16,7 @@ I am a Masters student at University of California, Los Angeles, majoring in App
 
 ## Projects
 - Quadratic Forms Reivew [(PDF)](assets/files/latex/Quadratic_Forms.pdf)
-- [Goal-Oriented Forecasting](https://github.com/timc1325/Five_Major_Leagues_Prediction)
+- [Goal-Oriented Forecasting](https://github.com/timc1325/Five_Major_Leagues_Prediction)[(PDF)](assets/files/latex/MAS_Thesis.pdf)
 - [Marathon Record Progression](https://github.com/timc1325/Marathon-Record-Progression) [(PDF)](assets/files/latex/Marathon.pdf)
 - [FourSquare App Checkin Analysis](https://github.com/timc1325/AppCheckin) [(PDF)](assets/files/latex/AppCheckin.pdf)
 - [Hyperparameters Tuning on MNIST using Experimental Design](https://github.com/timc1325/Experimental-Design_MNIST-Hyperparameter-Tuning) [(PDF)](assets/files/latex/Hyperparameter Tuning.pdf)

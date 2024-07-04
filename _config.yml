@@ -1,8 +1,8 @@
 # Basic Information 
 title: Sheng (Tim) Chen
-position: Master's Student
-affiliation: <a href="http://statistics.ucla.edu/">University of California, Los Angeles</a>
-email: tim1325@g.ucla.edu
+position: Ph.D student 
+affiliation: <a href="https://www.ece.ucsd.edu/">University of California, San Diego</a>
+email: tic038@ucsd.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,7 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/Resumé.pdf
 github_link: https://github.com/timc1325
 linkedin: https://www.linkedin.com/in/tim13/
 twitter: https://twitter.com/woshitimchen

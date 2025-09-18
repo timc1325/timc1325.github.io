@@ -4,11 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in Electrical and Computer Engineering at UCSD, specializing in Machine Learning and Data Science. Prior to my doctoral studies, I completed my undergraduate studies in Mathematics and obtained a Master's degree in Applied Statistics from UCLA in 2024. My research focuses on Information Theory, Differential Privacy, and applying Machine Learning methods to analyze time-series data.
-
-## Publications
-- (Preprint) **[Multi-Objective Bayesian Optimization for Efficient HDnn-PIM Software-Hardware Co-Design with Metric Constraints](assets/files/latex/mobo_co.pdf)**
-  *Authors:* *Chien-Yi Yang*, *Sheng Chen*, *Minxuan Zhou*, *Flavio Ponzina*, *Dongxia Wu*, *Raid Ayoub*, *Pietro Mercati*, *Mahesh Subedar*, *Yian Ma*, *Rose Yu*, *Tajana Rosing* 
+I am a first-year Ph.D. student in Electrical and Computer Engineering at UCSD, specializing in Machine Learning and Data Science. Prior to my doctoral studies, I completed my undergraduate studies in Mathematics and obtained a Master's degree in Applied Statistics from UCLA in 2024. My research involves designing efficient, privacy-preserving machine learning methods by optimizing large-scale model inference with compression, parallelism, and cryptographic verification techniques.
 
 ## Projects
 - Quadratic Forms Reivew [(PDF)](assets/files/latex/Quadratic_Forms.pdf)
